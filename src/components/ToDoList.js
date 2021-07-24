@@ -113,7 +113,7 @@ function ToDoList() {
       {list && list.map(item => {
         return (
           <div className={classes.center} key={item.id}>
-            <List className={classes.list} id="list">
+            <List className={classes.list} id='list'>
               <ListItem>
                 <ListItemIcon >
                   <Checkbox   
