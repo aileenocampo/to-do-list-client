@@ -29,9 +29,10 @@ const useStyles = makeStyles((theme) => ({
   },
   textField: {
     fontSize: '100%',
-    width: '75%',
+    width: '80%',
     height: '4vh',
     border: 'none',
+    backgroundColor: 'transparent'
   },
 }))
 
